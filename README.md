@@ -1,4 +1,4 @@
-## go get github.com/ichunt2019/golang-rbmq-sl
+## go get github.com/ichunt2019/golang-rabbitmq-2022
 
 **发送消息**
 
